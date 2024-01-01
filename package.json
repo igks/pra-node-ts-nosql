@@ -2,7 +2,7 @@
   "name": "pra-node-api-ts-nosql",
   "version": "1.0.0",
   "description": "API project with NodeJs, TypeScript and MongoDB",
-  "main": "index.js",
+  "main": "server.ts",
   "scripts": {
     "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
