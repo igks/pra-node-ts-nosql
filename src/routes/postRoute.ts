@@ -1,5 +1,5 @@
 import express from 'express';
-import { createPost, deletePost, getAllPost, getPost, updatePost } from '../controllers/post-controller';
+import { createPost, deletePost, getAllPost, getPost, updatePost } from '../controllers/postController';
 import checkAuth from '../middlewares/checkAuth';
 
 const postRoute = express.Router();
